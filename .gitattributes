@@ -41,4 +41,11 @@
 *.woff2 filter=lfs diff=lfs merge=lfs -text
 
 # Other
+*.so filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.wh1 filter=lfs diff=lfs merge=lfs -text
+*.gem filter=lfs diff=lfs merge=lfs -text
+*.cab filter=lfs diff=lfs merge=lfs -text
+*.sys filter=lfs diff=lfs merge=lfs -text
+*.com filter=lfs diff=lfs merge=lfs -text
