@@ -15,7 +15,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.sys
+*.vhd
 
 # Windows shortcuts
 *.lnk
-*.vhd
