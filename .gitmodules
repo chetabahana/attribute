@@ -1,0 +1,6 @@
+[submodule "parser"]
+	path = parser
+	url = https://github.com/eq19/parser
+[submodule "syntax"]
+	path = syntax
+	url = https://github.com/eq19/syntax
